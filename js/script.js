@@ -65,7 +65,7 @@ const team  = [
     {
         nome:'Barbara Ramos',
         ruolo:'Graphic Designer',
-        immagine: './img/ramos.jpeg',
+        immagine: './img/Ramos.jpeg',
     }
 ];
 
